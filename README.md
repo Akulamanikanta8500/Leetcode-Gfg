@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0371-sum-of-two-integers) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
