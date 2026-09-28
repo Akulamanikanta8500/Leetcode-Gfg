@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
