@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0415-add-strings) |
 | [2785-sort-vowels-in-a-string](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/2785-sort-vowels-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
