@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0147-insertion-sort-list) |
+| [2785-sort-vowels-in-a-string](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/2785-sort-vowels-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/0151-reverse-words-in-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/Akulamanikanta8500/Leetcode-Gfg/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
